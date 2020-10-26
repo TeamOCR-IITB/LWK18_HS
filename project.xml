@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<Project name="Book1">
+	<ItemGroup>
+		<Filter Include="Image">
+			<Extensions>jpeg;jpg;png;</Extensions>
+		</Filter>
+		<Filter Include="Document">
+			<Extensions>docx;txt;html</Extensions>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<File Include="Images/page-426.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-427.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-428.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-429.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-430.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-431.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-432.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-433.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-434.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-435.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-436.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-437.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-438.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-439.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-440.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-441.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-442.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-443.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-444.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-445.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-446.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-447.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-448.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-449.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Images/page-450.jpeg">
+			<Filter>Image</Filter>
+		</File>
+		<File Include="Inds/page-426.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-427.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-428.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-429.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-430.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-431.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-432.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-433.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-434.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-435.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-436.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-437.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-438.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-439.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-440.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-441.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-442.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-443.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-444.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-445.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-446.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-447.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-448.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-449.txt">
+			<Filter>Document</Filter>
+		</File>
+		<File Include="Inds/page-450.txt">
+			<Filter>Document</Filter>
+		</File>
+	</ItemGroup>
+	<Metadata>
+		<Version>1</Version>
+		<Stage>Corrector</Stage>
+		<Corrector>None</Corrector>
+		<SanityChecker>None</SanityChecker>
+		<Verifier>None</Verifier>
+	</Metadata>
+</Project>
